@@ -1,6 +1,7 @@
 # Streamlit Reasoning Visualizer
 
-[![PyPI version](https://badge.fury.io/py/streamlit-reasoning-visualizer.svg)]([https://pypi.org/project/streamlit-reasoning-visualizer/](https://pypi.org/project/streamlit-reasoning-visualizer/0.1.0/))
+[![PyPI downloads](https://img.shields.io/pypi/dm/streamlit-reasoning-visualizer.svg)](https://pypi.org/project/streamlit-reasoning-visualizer/0.1.0)
+
 [![Streamlit](https://img.shields.io/badge/Streamlit-Component-FF4B4B?logo=streamlit)](https://streamlit.io/)
 
 A beautiful, interactive Streamlit component for visualizing LLM reasoning processes with collapsible thought sections and rich markdown/LaTeX rendering.
