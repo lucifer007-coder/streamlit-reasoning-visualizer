@@ -134,6 +134,17 @@ npm run build
 pytest tests/ -v
 ```
 
+### Demo
+
+<img width="1767" height="442" alt="image" src="https://github.com/user-attachments/assets/ab950d59-bfa7-4890-860d-c30244f4a6c8" />
+
+<img width="1762" height="397" alt="image" src="https://github.com/user-attachments/assets/45307819-4ae4-4670-a566-01a17b8b7858" />
+
+<img width="1752" height="792" alt="image" src="https://github.com/user-attachments/assets/29909fc8-243d-48e7-a763-a57dc6d8f1cf" />
+
+<img width="1766" height="551" alt="image" src="https://github.com/user-attachments/assets/26858bc6-e16e-475e-9139-0537e359a3ec" />
+
+
 ## 📄 License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
@@ -144,3 +155,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - Animations powered by [Framer Motion](https://www.framer.com/motion/)
 - Math rendering by [KaTeX](https://katex.org/)
 - Icons from [Lucide React](https://lucide.dev/)
+
