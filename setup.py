@@ -27,8 +27,8 @@ setup(
     include_package_data=True,
     package_data={
         "reasoning_visualizer": [
-            "frontend/build/**/*",
-            "frontend/build/*",
+            "frontend/static/**/*",
+            "frontend/index.html",
         ],
     },
     python_requires=">=3.8",
