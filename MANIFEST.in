@@ -1,5 +1,5 @@
-# Include the frontend build directory in the source distribution
-recursive-include reasoning_visualizer/frontend/build *
+# Include frontend static assets in the source distribution
+recursive-include reasoning_visualizer/frontend *
 
 # Include documentation
 include README.md
